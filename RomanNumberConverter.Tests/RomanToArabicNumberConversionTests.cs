@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace RomanNumberConverter.Tests
 {
-    public class NumberConverterTests
+    public class RomanToArabicNumberConversionTests
     {
         private NumberConverter sut;
 
